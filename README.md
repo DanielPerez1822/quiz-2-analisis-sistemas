@@ -1,4 +1,3 @@
 # quiz-2-analisis-sistemas
-***vg**
-***cd***
+***hh:** aaa.
 ### dfsdfs
